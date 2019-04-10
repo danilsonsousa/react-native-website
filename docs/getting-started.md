@@ -82,7 +82,7 @@ title: Getting Started
   }
 </style>
 
-This page will help you install and build your first React Native app. If you already have React Native installed, you can skip ahead to the [Tutorial](tutorial.md).
+Esta página ajudará você a instalar e criar seu primeiro aplicativo React Native. Se você já tem o React Native instalado, você pode pular para o [Tutorial] (tutorial.md).
 
 <strong>If you are coming from a web background</strong>, the easiest way to get started with React Native is with Expo tools because they allow you to start a project without installing and configuring Xcode or Android Studio. Expo CLI sets up a development environment on your local machine and you can be writing a React Native app within minutes. For instant development, you can use [Snack](https://snack.expo.io/) to try React Native out directly in your web browser.
 
